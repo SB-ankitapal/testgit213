@@ -1,0 +1,25 @@
+{
+  "name": "TestGit213",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "new": {
+      "id": "MsX9iSlRhNg5HRQjax_Bu",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "new"
+    }
+  },
+  "extendedDefault": false
+}
