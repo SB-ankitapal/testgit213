@@ -1,0 +1,28 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "divider",
+      "title": "test"
+    },
+    {
+      "type": "item",
+      "title": "article",
+      "uri": "/docs/test/article.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "api3.1Y",
+      "uri": "/reference/api3.1Y.yaml"
+    },
+    {
+      "type": "item",
+      "title": "api2.0J",
+      "uri": "/reference/api2.0J.json"
+    }
+  ]
+}
