@@ -219,6 +219,18 @@
           "id": "j82hfk8jvaqmp"
         }
       }
+    },
+    "/path/user/test/existing/rename": {
+      "get": {
+        "summary": "Your GET endpoint",
+        "tags": [],
+        "responses": {},
+        "operationId": "get-path-user-test-existing",
+        "x-stoplight": {
+          "id": "a9y0gv5ue4jr2"
+        }
+      },
+      "parameters": []
     }
   },
   "definitions": {
